@@ -1,9 +1,12 @@
 ### Bem-vindo(a) ao meu humilde perfil! 👋 <!--Título-->
-
-<main>
-  <h3>Contatos:</h3>
-</main>
-
+<head>
+</head>
+<body>
+  <main>
+  </main>
+  <footer>
+  </footer>
+</body>
 
 <!--
 **PedroFigueira001/PedroFigueira001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
